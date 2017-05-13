@@ -12,16 +12,20 @@ import sys
 import json
 import os.path
 
-lines={}
+outputLines=[]
 finalOutputJson="/Users/talha/Desktop/xmlomni/output.json"
 xmldoc = minidom.parse('/Users/talha/Desktop/1.xml')
 
 lines = xmldoc.getElementsByTagName('ln')
-print len(lines)
-print lines
+lenLines = len(lines)
 
 count=1;
+
 for s in lines:
+
+	if count > lenLines:
+		break
+
 	words = s.getElementsByTagName('wd')
 	thisLine=""
 
@@ -41,9 +45,9 @@ for s in lines:
 	temp["b"]=b
 	temp["text"]=thisLine
 
-	lines.append(temp)
+	outputLines.append(temp)
 	print thisLine
-	cout=count+1
+	count=count+1
 
 with open(finalOutputJson, 'w') as outfile:  
-        json.dump(lines, outfile)
+        json.dump(outputLines, outfile)

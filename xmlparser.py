@@ -13,8 +13,8 @@ import json
 import os.path
 
 outputLines=[]
-finalOutputJson="/Users/talha/Desktop/xmlomni/output.json"
-xmldoc = minidom.parse('/Users/talha/Desktop/1.xml')
+finalOutputJson="/Users/talha/Desktop/xmlomni/5.json"
+xmldoc = minidom.parse('/Users/talha/Desktop/5.xml')
 
 lines = xmldoc.getElementsByTagName('ln')
 lenLines = len(lines)
@@ -30,7 +30,9 @@ for s in lines:
 	thisLine=""
 
 	for t in words:
-		thisLine = thisLine + t.childNodes[0].nodeValue+ " "
+		thisWord=t.childNodes[0].nodeValue
+		if(thisWord!=None):
+			thisLine = thisLine + thisWord + " "
 	
 	l=s.attributes['l'].value
 	r=s.attributes['r'].value

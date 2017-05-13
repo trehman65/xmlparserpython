@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<!--XML document generated using OCR technology from Nuance Communications, Inc.-->
+<document xmlns="http://www.scansoft.com/omnipage/xml/ssdoc-schema3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<summary>
+</summary>
+<page ocr-vers="omnipage-csdk-20.1" app-vers="omnipage-csdk-20.1">
+<description backColor="ffffff">
+<source file="5.jpeg" dpix="300" dpiy="300" sizex="1242" sizey="2208"/>
+<theoreticalPage size="Custom" marginLeft="0" marginTop="0" marginRight="0" marginBottom="0" width="1242" height="2208"/>
+<language>en</language>
+</description>
+<zones>
+<textZone l="91" t="67" r="5894" b="456" backColor="c1e4f8" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="91" t="67" r="5890" b="216" baseLine="202" bold="true" underlined="none" fontSize="800" foreColor="000000">
+<wd l="91" t="67" r="173" b="211"><run fontSize="1000" backColor="c1e4f8">1</run>
+</wd>
+<space width="58"/>
+<wd l="230" t="72" r="605" b="202">Back</wd>
+<space width="62"/>
+<wd l="667" t="86" r="816" b="202">to</wd>
+<space width="72"/>
+<wd l="888" t="72" r="2472" b="202">Hewlett-Woodmer...</wd>
+<space width="158"/>
+<wd l="2630" t="86" r="3082" b="211">10:47</wd>
+<space width="72"/>
+<wd l="3154" t="86" r="3398" b="211">PM</wd>
+<space width="691"/>
+<wd l="4090" t="82" r="4219" b="211">L</wd>
+<space width="96"/>
+<wd l="4315" t="72" r="4478" b="216">@</wd>
+<space width="86"/>
+<wd l="4565" t="86" r="4694" b="216">1</wd>
+<space width="96"/>
+<wd l="4790" t="82" r="4925" b="211">4</wd>
+<space width="96"/>
+<wd l="5021" t="86" r="5362" b="216">44%</wd>
+<space width="53"/>
+<wd l="5414" t="72" r="5890" b="216" foreColor="00ccff">[1.*</wd>
+<space/>
+</ln>
+<ln l="2117" t="317" r="3854" b="451" baseLine="446" bold="true" underlined="none" fontSize="800" foreColor="000000">
+<wd l="2117" t="317" r="3854" b="451">hewlett-woodmere.net</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="0" t="653" r="4627" b="782" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="0" t="653" r="4622" b="778" baseLine="754" underlined="single" fontSize="600" foreColor="840703">
+<wd l="0" t="686" r="254" b="758" underlined="none">ome</wd>
+<space width="91"/>
+<wd l="346" t="653" r="403" b="749" underlined="none" foreColor="666666">/</wd>
+<space width="82"/>
+<wd l="485" t="662" r="773" b="758">WMS</wd>
+<space width="62"/>
+<wd l="835" t="667" r="1243" b="758">Memos</wd>
+<space width="91"/>
+<wd l="1334" t="653" r="1387" b="749" underlined="none" foreColor="666666">I</wd>
+<space width="86"/>
+<wd l="1474" t="662" r="1982" b="758">Summer</wd>
+<space width="48"/>
+<wd l="2030" t="662" r="2496" b="778">Reading</wd>
+<space width="58"/>
+<wd l="2554" t="662" r="2755" b="758">List</wd>
+<space width="43"/>
+<wd l="2798" t="662" r="3010" b="758">and</wd>
+<space width="53"/>
+<wd l="3062" t="662" r="3821" b="768">Assignments</wd>
+<space width="53"/>
+<wd l="3874" t="710" r="3912" b="725"><run foreColor="a64d4a" backColor="ffffff">-</run>
+</wd>
+<space width="58"/>
+<wd l="3970" t="662" r="4622" b="758">2016-2017</wd>
+<space/>
+</ln>
+</textZone>
+<pictureZone l="960" t="1728" r="5050" b="2674">
+</pictureZone>
+<textZone l="2102" t="2870" r="3816" b="3307" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="2102" t="2870" r="3811" b="2966" baseLine="2962" underlined="none" fontSize="600">
+<wd l="2102" t="2870" r="2822" b="2966">WOODMERE</wd>
+<space width="43"/>
+<wd l="2866" t="2870" r="3307" b="2962">MIDDLE</wd>
+<space width="38"/>
+<wd l="3346" t="2870" r="3811" b="2966">SCHOOL</wd>
+<space/>
+</ln>
+<ln l="2122" t="3038" r="3787" b="3134" baseLine="3130" underlined="none" fontSize="600">
+<wd l="2122" t="3038" r="2635" b="3134">SEVENTH</wd>
+<space width="48"/>
+<wd l="2683" t="3038" r="3072" b="3134">GRADE</wd>
+<space width="38"/>
+<wd l="3110" t="3038" r="3533" b="3134">SUPPLY</wd>
+<space width="38"/>
+<wd l="3571" t="3038" r="3787" b="3134">LIST</wd>
+<space/>
+</ln>
+<ln l="2726" t="3206" r="3182" b="3302" baseLine="3298" underlined="none" fontSize="600">
+<wd l="2726" t="3206" r="3182" b="3302">2016-17</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1114" t="3547" r="4920" b="7771" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1114" t="3547" r="2976" b="3672" baseLine="3643" underlined="none" fontSize="600">
+<wd l="1114" t="3571" r="1157" b="3614">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="3552" r="1512" b="3648">One</wd>
+<space width="43"/>
+<wd l="1555" t="3547" r="1882" b="3672">pencil</wd>
+<space width="43"/>
+<wd l="1925" t="3576" r="2165" b="3648">case</wd>
+<space width="34"/>
+<wd l="2198" t="3547" r="2434" b="3648">that</wd>
+<space width="38"/>
+<wd l="2472" t="3552" r="2976" b="3648">contains:</wd>
+<space/>
+</ln>
+<ln l="1469" t="3715" r="3096" b="3835" baseLine="3811" underlined="none" fontSize="600">
+<wd l="1469" t="3749" r="1536" b="3816">o</wd>
+<space width="115"/>
+<wd l="1651" t="3720" r="1906" b="3816">Pens</wd>
+<space width="43"/>
+<wd l="1949" t="3715" r="2304" b="3835">(black,</wd>
+<space width="48"/>
+<wd l="2352" t="3715" r="2587" b="3816">blue</wd>
+<space width="43"/>
+<wd l="2630" t="3715" r="2832" b="3816">and</wd>
+<space width="48"/>
+<wd l="2880" t="3715" r="3096" b="3835">red)</wd>
+<space/>
+</ln>
+<ln l="1469" t="3888" r="2760" b="3989" baseLine="3984" underlined="none" fontSize="600">
+<wd l="1469" t="3922" r="1536" b="3989">o</wd>
+<space width="115"/>
+<wd l="1651" t="3888" r="2030" b="3989">Pencils</wd>
+<space width="38"/>
+<wd l="2069" t="3888" r="2309" b="3989">with</wd>
+<space width="48"/>
+<wd l="2357" t="3917" r="2760" b="3989">erasers</wd>
+<space/>
+</ln>
+<ln l="1469" t="4056" r="2510" b="4181" baseLine="4152" underlined="none" fontSize="600">
+<wd l="1469" t="4090" r="1536" b="4157">o</wd>
+<space width="110"/>
+<wd l="1646" t="4056" r="2078" b="4157">Colored</wd>
+<space width="48"/>
+<wd l="2126" t="4056" r="2510" b="4181">pencils</wd>
+<space/>
+</ln>
+<ln l="1469" t="4224" r="3197" b="4354" baseLine="4325" underlined="none" fontSize="600">
+<wd l="1469" t="4262" r="1536" b="4330">o</wd>
+<space width="106"/>
+<wd l="1642" t="4229" r="1982" b="4330">White</wd>
+<space width="43"/>
+<wd l="2026" t="4234" r="2597" b="4330">correction</wd>
+<space width="38"/>
+<wd l="2635" t="4224" r="3197" b="4354">fluid/tape</wd>
+<space/>
+</ln>
+<ln l="1469" t="4397" r="3494" b="4522" baseLine="4493" underlined="none" fontSize="600">
+<wd l="1469" t="4430" r="1536" b="4498">o</wd>
+<space width="110"/>
+<wd l="1646" t="4402" r="1704" b="4498">5</wd>
+<space width="48"/>
+<wd l="1752" t="4397" r="2405" b="4522">highlighters</wd>
+<space width="43"/>
+<wd l="2448" t="4397" r="2549" b="4517">(5</wd>
+<space width="43"/>
+<wd l="2592" t="4397" r="3082" b="4498">different</wd>
+<space width="43"/>
+<wd l="3125" t="4397" r="3494" b="4517">colors)</wd>
+<space/>
+</ln>
+<ln l="1469" t="4570" r="2774" b="4694" baseLine="4666" underlined="none" fontSize="600">
+<wd l="1469" t="4603" r="1536" b="4670">o</wd>
+<space width="110"/>
+<wd l="1646" t="4570" r="1901" b="4670">Glue</wd>
+<space width="38"/>
+<wd l="1939" t="4570" r="2242" b="4670">sticks</wd>
+<space width="43"/>
+<wd l="2285" t="4570" r="2386" b="4690">(4</wd>
+<space width="43"/>
+<wd l="2429" t="4570" r="2774" b="4694">packs)</wd>
+<space/>
+</ln>
+<ln l="1469" t="4742" r="2078" b="4838" baseLine="4834" underlined="none" fontSize="600">
+<wd l="1469" t="4771" r="1536" b="4838">o</wd>
+<space width="106"/>
+<wd l="1642" t="4742" r="2078" b="4838">Scissors</wd>
+<space/>
+</ln>
+<ln l="1114" t="4910" r="3072" b="5035" baseLine="5006" underlined="none" fontSize="600">
+<wd l="1114" t="4934" r="1157" b="4978">&#8226;</wd>
+<space width="125"/>
+<wd l="1282" t="4915" r="1522" b="5011">Two</wd>
+<space width="38"/>
+<wd l="1560" t="4968" r="1594" b="4978">-</wd>
+<space width="43"/>
+<wd l="1637" t="4915" r="1800" b="5011">2.5</wd>
+<space width="48"/>
+<wd l="1848" t="4910" r="2069" b="5011">inch</wd>
+<space width="48"/>
+<wd l="2117" t="4910" r="2530" b="5011">binders</wd>
+<space width="43"/>
+<wd l="2573" t="4910" r="2755" b="5030" bold="true">(7B</wd>
+<space width="34"/>
+<wd l="2789" t="4910" r="3072" b="5035" bold="true">only)</wd>
+<space/>
+</ln>
+<ln l="1114" t="5083" r="4008" b="5208" baseLine="5179" underlined="none" fontSize="600">
+<wd l="1114" t="5107" r="1157" b="5150">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="5088" r="1349" b="5184">5</wd>
+<space width="43"/>
+<wd l="1392" t="5083" r="1714" b="5184">boxes</wd>
+<space width="38"/>
+<wd l="1752" t="5083" r="1867" b="5184">of</wd>
+<space width="29"/>
+<wd l="1896" t="5088" r="2280" b="5184">tissues</wd>
+<space width="34"/>
+<wd l="2314" t="5083" r="2477" b="5184">for</wd>
+<space width="34"/>
+<wd l="2510" t="5083" r="3034" b="5184">student&apos;s</wd>
+<space width="43"/>
+<wd l="3077" t="5083" r="3432" b="5208">period</wd>
+<space width="48"/>
+<wd l="3480" t="5088" r="3538" b="5179">1</wd>
+<space width="34"/>
+<wd l="3571" t="5083" r="4008" b="5184">teacher</wd>
+<space/>
+</ln>
+<ln l="1114" t="5251" r="2640" b="5352" baseLine="5347" underlined="none" fontSize="600">
+<wd l="1114" t="5275" r="1157" b="5318">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="5251" r="1738" b="5352">Dividers</wd>
+<space width="38"/>
+<wd l="1776" t="5251" r="1939" b="5352">for</wd>
+<space width="38"/>
+<wd l="1978" t="5251" r="2232" b="5352">each</wd>
+<space width="43"/>
+<wd l="2275" t="5251" r="2640" b="5352">binder</wd>
+<space/>
+</ln>
+<ln l="1114" t="5424" r="2741" b="5549" baseLine="5520" underlined="none" fontSize="600">
+<wd l="1114" t="5448" r="1157" b="5491">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="5424" r="1637" b="5549">Plenty</wd>
+<space width="38"/>
+<wd l="1675" t="5424" r="1790" b="5525">of</wd>
+<space width="34"/>
+<wd l="1824" t="5424" r="2381" b="5525">loose-leaf</wd>
+<space width="38"/>
+<wd l="2419" t="5453" r="2741" b="5549">paper</wd>
+<space/>
+</ln>
+<ln l="1114" t="5592" r="1584" b="5693" baseLine="5688" underlined="none" fontSize="600">
+<wd l="1114" t="5616" r="1157" b="5659">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="5592" r="1584" b="5693">Ruler</wd>
+<space/>
+</ln>
+<ln l="1114" t="5765" r="2381" b="5866" baseLine="5861" underlined="none" fontSize="600">
+<wd l="1114" t="5789" r="1157" b="5832">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="5765" r="1790" b="5866">Scientific</wd>
+<space width="38"/>
+<wd l="1829" t="5765" r="2381" b="5866">calculator</wd>
+<space/>
+</ln>
+<ln l="1114" t="5933" r="4867" b="6058" baseLine="6029" underlined="none" fontSize="600">
+<wd l="1114" t="5957" r="1157" b="6000">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="5938" r="1349" b="6034">3</wd>
+<space width="34"/>
+<wd l="1382" t="5962" r="1440" b="6034">x</wd>
+<space width="43"/>
+<wd l="1483" t="5938" r="1541" b="6034">3</wd>
+<space width="48"/>
+<wd l="1589" t="5938" r="1824" b="6034">Post</wd>
+<wd l="1829" t="5938" r="1997" b="6034">-its</wd>
+<space width="43"/>
+<wd l="2040" t="5933" r="2242" b="6053">(we</wd>
+<space width="38"/>
+<wd l="2280" t="5933" r="2462" b="6029">will</wd>
+<space width="48"/>
+<wd l="2510" t="5962" r="2698" b="6034">use</wd>
+<space width="43"/>
+<wd l="2741" t="5947" r="2846" b="6034">at</wd>
+<space width="38"/>
+<wd l="2885" t="5933" r="3144" b="6034">least</wd>
+<space width="48"/>
+<wd l="3192" t="5938" r="3317" b="6034">10</wd>
+<space width="43"/>
+<wd l="3360" t="5933" r="3667" b="6058">packs</wd>
+<space width="43"/>
+<wd l="3710" t="5962" r="3960" b="6034">over</wd>
+<space width="34"/>
+<wd l="3994" t="5933" r="4176" b="6034">the</wd>
+<space width="43"/>
+<wd l="4219" t="5938" r="4546" b="6034">entire</wd>
+<space width="38"/>
+<wd l="4584" t="5933" r="4867" b="6058">year)</wd>
+<space/>
+</ln>
+<ln l="1114" t="6106" r="2506" b="6226" baseLine="6202" underlined="none" fontSize="600">
+<wd l="1114" t="6130" r="1157" b="6173">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="6110" r="1598" b="6226">1,000</wd>
+<space width="38"/>
+<wd l="1637" t="6110" r="1829" b="6206">3x5</wd>
+<space width="43"/>
+<wd l="1872" t="6106" r="2170" b="6206">index</wd>
+<space width="43"/>
+<wd l="2213" t="6106" r="2506" b="6206">cards</wd>
+<space/>
+</ln>
+<ln l="1114" t="6274" r="4358" b="6398" baseLine="6370" underlined="none" fontSize="600">
+<wd l="1114" t="6298" r="1157" b="6341">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="6278" r="1349" b="6370">2</wd>
+<space width="38"/>
+<wd l="1387" t="6274" r="1718" b="6398">Single</wd>
+<space width="38"/>
+<wd l="1757" t="6274" r="2160" b="6398">subject</wd>
+<space width="38"/>
+<wd l="2198" t="6274" r="2597" b="6398" bold="true">college</wd>
+<space width="48"/>
+<wd l="2645" t="6274" r="2933" b="6374" bold="true">ruled</wd>
+<space width="43"/>
+<wd l="2976" t="6274" r="3283" b="6384" bold="true" underlined="single">spiral</wd>
+<space width="48"/>
+<wd l="3331" t="6274" r="3922" b="6374">notebooks</wd>
+<space width="34"/>
+<wd l="3955" t="6274" r="4123" b="6374">for</wd>
+<space width="38"/>
+<wd l="4162" t="6278" r="4358" b="6374">ELA</wd>
+<space/>
+</ln>
+<ln l="1114" t="6446" r="4704" b="6571" baseLine="6542" underlined="none" fontSize="600">
+<wd l="1114" t="6470" r="1157" b="6514">&#8226;</wd>
+<space width="125"/>
+<wd l="1282" t="6451" r="1550" b="6562">Two,</wd>
+<space width="38"/>
+<wd l="1589" t="6461" r="1805" b="6547">two</wd>
+<space width="48"/>
+<wd l="1853" t="6446" r="2222" b="6547">Pocket</wd>
+<space width="43"/>
+<wd l="2266" t="6446" r="2674" b="6547">Folders</wd>
+<space width="38"/>
+<wd l="2712" t="6446" r="2952" b="6547">with</wd>
+<space width="48"/>
+<wd l="3000" t="6446" r="3307" b="6547">metal</wd>
+<space width="48"/>
+<wd l="3355" t="6475" r="3734" b="6571">prongs</wd>
+<space width="38"/>
+<wd l="3773" t="6446" r="3936" b="6547">for</wd>
+<space width="34"/>
+<wd l="3970" t="6475" r="4339" b="6547">secure</wd>
+<space width="43"/>
+<wd l="4382" t="6475" r="4704" b="6571">paper</wd>
+<space/>
+</ln>
+<ln l="1286" t="6614" r="2222" b="6739" baseLine="6710" underlined="none" fontSize="600">
+<wd l="1286" t="6629" r="1704" b="6739">storage</wd>
+<space width="43"/>
+<wd l="1747" t="6614" r="1949" b="6734">(for</wd>
+<space width="38"/>
+<wd l="1987" t="6614" r="2222" b="6734">ELA)</wd>
+<space/>
+</ln>
+<ln l="1114" t="6782" r="2443" b="6912" baseLine="6883" underlined="none" fontSize="600">
+<wd l="1114" t="6811" r="1157" b="6854">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="6787" r="1565" b="6888">Flash</wd>
+<space width="48"/>
+<wd l="1613" t="6792" r="1901" b="6888">Drive</wd>
+<space width="43"/>
+<wd l="1944" t="6782" r="2122" b="6907" bold="true">(7C</wd>
+<space width="38"/>
+<wd l="2160" t="6782" r="2443" b="6912" bold="true">only)</wd>
+<space/>
+</ln>
+<ln l="1114" t="6955" r="4915" b="7085" baseLine="7056" underlined="none" fontSize="600">
+<wd l="1114" t="6984" r="1157" b="7027">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="6960" r="1762" b="7085">Optional</wd>
+<space width="43"/>
+<wd l="1805" t="6955" r="3283" b="7085">Spanish/French/Mandarin</wd>
+<space width="43"/>
+<wd l="3326" t="6960" r="3768" b="7061">Chinese</wd>
+<space width="34"/>
+<wd l="3802" t="7013" r="3874" b="7022">&#8212;</wd>
+<space width="43"/>
+<wd l="3917" t="6960" r="4296" b="7085">English</wd>
+<space width="48"/>
+<wd l="4344" t="6965" r="4915" b="7080">Dictionary</wd>
+<space/>
+</ln>
+<ln l="1286" t="7128" r="3010" b="7253" baseLine="7224" underlined="none" fontSize="600">
+<wd l="1286" t="7128" r="1882" b="7253">depending</wd>
+<space width="38"/>
+<wd l="1920" t="7157" r="2054" b="7229">on</wd>
+<space width="48"/>
+<wd l="2102" t="7157" r="2472" b="7229">course</wd>
+<space width="38"/>
+<wd l="2510" t="7128" r="3010" b="7229">selection</wd>
+<space/>
+</ln>
+<ln l="1114" t="7301" r="3389" b="7426" baseLine="7397" underlined="none" fontSize="600">
+<wd l="1114" t="7325" r="1157" b="7368">&#8226;</wd>
+<space width="134"/>
+<wd l="1291" t="7306" r="1589" b="7426">Large</wd>
+<space width="38"/>
+<wd l="1627" t="7306" r="1790" b="7426">Zip</wd>
+<wd l="1795" t="7301" r="2093" b="7402">-Lock</wd>
+<space width="43"/>
+<wd l="2136" t="7306" r="2386" b="7426">Bags</wd>
+<space width="43"/>
+<wd l="2429" t="7301" r="2578" b="7421">(to</wd>
+<space width="43"/>
+<wd l="2621" t="7301" r="2952" b="7402">house</wd>
+<space width="43"/>
+<wd l="2995" t="7301" r="3389" b="7421">novels)</wd>
+<space/>
+</ln>
+<ln l="1114" t="7469" r="4762" b="7594" baseLine="7565" underlined="none" fontSize="600">
+<wd l="1114" t="7493" r="1157" b="7536">&#8226;</wd>
+<space width="130"/>
+<wd l="1286" t="7474" r="1344" b="7570">3</wd>
+<space width="48"/>
+<wd l="1392" t="7469" r="1781" b="7570">marble</wd>
+<space width="43"/>
+<wd l="1824" t="7474" r="2515" b="7594">composition</wd>
+<space width="43"/>
+<wd l="2558" t="7469" r="3154" b="7570">notebooks</wd>
+<space width="38"/>
+<wd l="3192" t="7469" r="3432" b="7570">with</wd>
+<space width="43"/>
+<wd l="3475" t="7469" r="3792" b="7594">graph</wd>
+<space width="43"/>
+<wd l="3835" t="7498" r="4162" b="7594">paper</wd>
+<space width="38"/>
+<wd l="4200" t="7469" r="4603" b="7570">instead</wd>
+<space width="43"/>
+<wd l="4646" t="7469" r="4762" b="7570">of</wd>
+<space/>
+</ln>
+<ln l="1291" t="7637" r="3038" b="7766" baseLine="7738" underlined="none" fontSize="600">
+<wd l="1291" t="7642" r="1555" b="7742">lined</wd>
+<space width="38"/>
+<wd l="1594" t="7642" r="1958" b="7742">sheets</wd>
+<space width="34"/>
+<wd l="1992" t="7642" r="2160" b="7742">for</wd>
+<space width="43"/>
+<wd l="2203" t="7642" r="2491" b="7742">Math</wd>
+<space width="43"/>
+<wd l="2534" t="7637" r="2717" b="7762" bold="true">(7C</wd>
+<space width="34"/>
+<wd l="2750" t="7637" r="3038" b="7766" bold="true">only)</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="0" t="9326" r="5914" b="9614" backColor="000000" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="0" t="9331" r="5563" b="9466" baseLine="9437" underlined="none" fontSize="600" foreColor="fafafa">
+<wd l="0" t="9341" r="518" b="9442">Iuestions</wd>
+<space width="43"/>
+<wd l="562" t="9365" r="677" b="9442">or</wd>
+<space width="43"/>
+<wd l="720" t="9341" r="1344" b="9442">Feedback?</wd>
+<space width="154"/>
+<wd l="1498" t="9341" r="1512" b="9466"><run foreColor="ffffff" backColor="000000">1</run>
+</wd>
+<space width="154"/>
+<wd l="1666" t="9341" r="2299" b="9442">Blackboard</wd>
+<space width="48"/>
+<wd l="2347" t="9341" r="3038" b="9442">Schoolwires</wd>
+<space width="48"/>
+<wd l="3086" t="9341" r="3504" b="9466">Privacy</wd>
+<space width="43"/>
+<wd l="3547" t="9341" r="3883" b="9466">Policy</wd>
+<space width="43"/>
+<wd l="3926" t="9341" r="4493" b="9466">(Updated)</wd>
+<space width="154"/>
+<wd l="4646" t="9341" r="4656" b="9466">1</wd>
+<space width="149"/>
+<wd l="4805" t="9341" r="5155" b="9442">Terms</wd>
+<space width="43"/>
+<wd l="5198" t="9341" r="5309" b="9442">of</wd>
+<space width="38"/>
+<wd l="5347" t="9341" r="5563" b="9442">Use</wd>
+<space/>
+</ln>
+<ln l="2942" t="9514" r="5558" b="9610" baseLine="9586" underlined="none" fontSize="500" foreColor="fafafa">
+<wd l="2942" t="9514" r="3365" b="9610">Copyright</wd>
+<space width="24"/>
+<wd l="3389" t="9514" r="3466" b="9586" foreColor="878787">&#169;</wd>
+<space width="29"/>
+<wd l="3494" t="9514" r="3965" b="9590">2002-2016</wd>
+<space width="38"/>
+<wd l="4003" t="9514" r="4517" b="9600">Blackboard,</wd>
+<space width="43"/>
+<wd l="4560" t="9514" r="4704" b="9590">Inc.</wd>
+<space width="34"/>
+<wd l="4738" t="9514" r="4843" b="9586">All</wd>
+<space width="43"/>
+<wd l="4886" t="9514" r="5122" b="9610">rights</wd>
+<space width="38"/>
+<wd l="5160" t="9514" r="5558" b="9586">reserved.</wd>
+<space/>
+</ln>
+</textZone>
+<zone l="845" t="2717" r="5069" b="8093" backColor="ffffff">
+<leftBorder type="single" width="19" color="181818"/>
+<topBorder type="single" width="19" color="0a4b89"/>
+<rightBorder type="single" width="19" color="1d1d1d"/>
+<bottomBorder type="single" width="19" color="7e7e7e"/>
+</zone>
+<zone l="0" t="9202" r="5962" b="10598" backColor="000000">
+</zone>
+<zone l="0" t="0" r="5933" b="576" backColor="c1e4f8">
+<bottomBorder type="single" width="5" color="b2b2b2"/>
+</zone>
+<zone l="0" t="576" r="5933" b="9101" backColor="ffffff">
+</zone>
+<rulerline l="0" t="970" r="5933" b="970" type="single" width="19" color="9a9a9a"/>
+</zones>
+</page>
+</document>

@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!--XML document generated using OCR technology from Nuance Communications, Inc.-->
+<document xmlns="http://www.scansoft.com/omnipage/xml/ssdoc-schema3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<summary>
+</summary>
+<page ocr-vers="omnipage-csdk-20.1" app-vers="omnipage-csdk-20.1">
+<description backColor="ffffff">
+<source file="2.jpeg" dpix="300" dpiy="300" sizex="1125" sizey="2001"/>
+<theoreticalPage size="Custom" marginLeft="0" marginTop="0" marginRight="0" marginBottom="0" width="1125" height="2001"/>
+<language>en</language>
+</description>
+<zones>
+<textZone l="96" t="77" r="1219" b="216" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="96" t="77" r="1214" b="211" baseLine="197" underlined="none" fontSize="800">
+<wd l="96" t="106" r="576" b="182">&#8226;&#8226;000</wd>
+<space width="53"/>
+<wd l="629" t="82" r="1214" b="211">Verizon</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="154" t="1210" r="1190" b="1891" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="154" t="1210" r="1190" b="1886" baseLine="1886" underlined="none" fontSize="4000" foreColor="5c4634">
+<wd l="154" t="1210" r="1190" b="1886">&#8226;</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="154" t="2726" r="4800" b="4013" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="154" t="2726" r="4795" b="4008" baseLine="3005" underlined="none" fontSize="1000">
+<wd l="154" t="2726" r="2875" b="4008"><run bold="true" subsuperscript="superscript" fontSize="8900" foreColor="5c4634" backColor="ffffff">i</run>
+<run foreColor="482c4d" backColor="ffffff">r</run>
+<run fontSize="1000" backColor="ffffff">SkullcandyTM</run>
+</wd>
+<space width="91"/>
+<wd l="2966" t="2765" r="3230" b="2918">Jib</wd>
+<space width="82"/>
+<wd l="3312" t="2765" r="4114" b="2952">Earbuds,</wd>
+<space width="96"/>
+<wd l="4210" t="2765" r="4795" b="2947">Purple</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1651" t="86" r="3970" b="1157" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="2328" t="86" r="3101" b="216" baseLine="211" underlined="none" fontSize="800">
+<wd l="2328" t="86" r="2789" b="216">10:53</wd>
+<space width="72"/>
+<wd l="2861" t="91" r="3101" b="211">PM</wd>
+<space/>
+</ln>
+<ln l="2064" t="523" r="3336" b="691" baseLine="691" underlined="none" fontSize="1100">
+<wd l="2064" t="523" r="2611" b="691">Order</wd>
+<space width="72"/>
+<wd l="2683" t="523" r="3336" b="691">Details</wd>
+<space/>
+</ln>
+<ln l="1651" t="965" r="3965" b="1152" baseLine="1114" underlined="none" fontSize="1000">
+<wd l="1651" t="970" r="2390" b="1114">Amazon</wd>
+<space width="91"/>
+<wd l="2482" t="965" r="2928" b="1114">Echo</wd>
+<space width="86"/>
+<wd l="3014" t="970" r="3370" b="1152">Dot,</wd>
+<space width="101"/>
+<wd l="3470" t="965" r="3965" b="1114">Black</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1651" t="1603" r="2419" b="1738" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1651" t="1603" r="2414" b="1733" baseLine="1714" underlined="none" fontSize="800" foreColor="5b5b5b">
+<wd l="1651" t="1603" r="2232" b="1733">Quantity</wd>
+<space width="58"/>
+<wd l="2290" t="1613" r="2414" b="1714">:1</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1651" t="1934" r="2304" b="2117" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1651" t="1934" r="2299" b="2112" baseLine="2093" bold="true" underlined="none" fontSize="1000">
+<wd l="1651" t="1934" r="2299" b="2112">$49.99</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="4152" t="48" r="5323" b="250" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="4152" t="48" r="5318" b="245" baseLine="216" underlined="none" fontSize="800">
+<wd l="4152" t="86" r="4277" b="211">1</wd>
+<space width="86"/>
+<wd l="4363" t="48" r="4474" b="245" foreColor="777777">*</wd>
+<space width="101"/>
+<wd l="4574" t="86" r="4915" b="216">66%</wd>
+<space width="53"/>
+<wd l="4968" t="77" r="5318" b="216">LW.</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1651" t="3408" r="2419" b="3538" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1651" t="3408" r="2414" b="3533" baseLine="3514" underlined="none" fontSize="800" foreColor="5b5b5b">
+<wd l="1651" t="3408" r="2232" b="3533">Quantity</wd>
+<space width="58"/>
+<wd l="2290" t="3413" r="2414" b="3514">:1</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1651" t="3734" r="2304" b="3917" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1651" t="3734" r="2299" b="3912" baseLine="3893" bold="true" underlined="none" fontSize="1000">
+<wd l="1651" t="3734" r="2299" b="3912">$11.99</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="154" t="4493" r="1469" b="4627" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="154" t="4493" r="1464" b="4622" baseLine="4618" underlined="none" fontSize="800">
+<wd l="154" t="4493" r="715" b="4618">ORDER</wd>
+<space width="77"/>
+<wd l="792" t="4493" r="1464" b="4622">DETAILS</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="158" t="4954" r="2342" b="5424" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="158" t="4954" r="2338" b="5126" baseLine="5122" underlined="none" fontSize="1100">
+<wd l="158" t="4954" r="758" b="5126">Order</wd>
+<space width="77"/>
+<wd l="835" t="4954" r="2338" b="5126">#9747675537</wd>
+<space/>
+</ln>
+<ln l="158" t="5285" r="782" b="5419" baseLine="5419" underlined="none" fontSize="800">
+<wd l="158" t="5285" r="245" b="5419">2</wd>
+<space width="82"/>
+<wd l="326" t="5290" r="782" b="5419">Items</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="154" t="5726" r="4032" b="6480" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="154" t="5726" r="1877" b="5899" baseLine="5861" underlined="none" fontSize="800">
+<wd l="154" t="5726" r="643" b="5870">Order</wd>
+<space width="62"/>
+<wd l="706" t="5741" r="1080" b="5899">type</wd>
+<space width="283"/>
+<wd l="1363" t="5731" r="1877" b="5866">Online</wd>
+<space/>
+</ln>
+<ln l="154" t="6029" r="4027" b="6173" baseLine="6163" underlined="none" fontSize="800">
+<wd l="154" t="6029" r="643" b="6173">Order</wd>
+<space width="67"/>
+<wd l="710" t="6029" r="1080" b="6168">date</wd>
+<space width="288"/>
+<wd l="1368" t="6034" r="1622" b="6168">5th</wd>
+<space width="72"/>
+<wd l="1694" t="6034" r="2534" b="6163">December</wd>
+<space width="67"/>
+<wd l="2602" t="6038" r="2990" b="6168">2016</wd>
+<space width="67"/>
+<wd l="3058" t="6048" r="3202" b="6163">at</wd>
+<space width="67"/>
+<wd l="3269" t="6038" r="3715" b="6168">10:52</wd>
+<space width="72"/>
+<wd l="3787" t="6043" r="4027" b="6163">PM</wd>
+<space/>
+</ln>
+<ln l="154" t="6317" r="2707" b="6475" baseLine="6451" underlined="none" fontSize="800">
+<wd l="154" t="6317" r="643" b="6461">Order</wd>
+<space width="62"/>
+<wd l="706" t="6317" r="1080" b="6456">total</wd>
+<space width="288"/>
+<wd l="1368" t="6317" r="1920" b="6461">$31.98</wd>
+<space width="72"/>
+<wd l="1992" t="6326" r="2136" b="6475">(2</wd>
+<space width="72"/>
+<wd l="2208" t="6331" r="2707" b="6475">Items)</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="154" t="6840" r="1848" b="8755" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="154" t="6840" r="1685" b="6970" baseLine="6965" underlined="none" fontSize="800">
+<wd l="154" t="6840" r="941" b="6970">SHIPPING</wd>
+<space width="72"/>
+<wd l="1013" t="6840" r="1685" b="6970">DETAILS</wd>
+<space/>
+</ln>
+<ln l="154" t="7301" r="1786" b="7498" baseLine="7454" underlined="none" fontSize="1000">
+<wd l="154" t="7301" r="989" b="7498">Shipping</wd>
+<space width="86"/>
+<wd l="1075" t="7306" r="1786" b="7454">Method</wd>
+<space/>
+</ln>
+<ln l="163" t="7594" r="1440" b="7786" baseLine="7742" underlined="none" fontSize="1000">
+<wd l="163" t="7598" r="552" b="7742">Free</wd>
+<space width="82"/>
+<wd l="634" t="7594" r="1440" b="7786">Shipping</wd>
+<space/>
+</ln>
+<ln l="154" t="8050" r="1843" b="8246" baseLine="8203" underlined="none" fontSize="1000">
+<wd l="154" t="8050" r="989" b="8246">Shipping</wd>
+<space width="77"/>
+<wd l="1066" t="8054" r="1843" b="8203">Address</wd>
+<space/>
+</ln>
+<ln l="154" t="8414" r="1618" b="8573" baseLine="8539" underlined="none" fontSize="800">
+<wd l="154" t="8414" r="1056" b="8544">CHRISTINA</wd>
+<space width="72"/>
+<wd l="1128" t="8414" r="1618" b="8573">LANG,</wd>
+<space/>
+</ln>
+<ln l="158" t="8621" r="1483" b="8750" baseLine="8746" underlined="none" fontSize="800">
+<wd l="158" t="8621" r="461" b="8750">566</wd>
+<space width="67"/>
+<wd l="528" t="8621" r="1176" b="8750">SOLLAS</wd>
+<space width="67"/>
+<wd l="1243" t="8621" r="1483" b="8750">CT.</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="797" t="9144" r="1882" b="9293" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="797" t="9144" r="1877" b="9288" baseLine="9283" underlined="none" fontSize="800" foreColor="c07827">
+<wd l="797" t="9144" r="1195" b="9288">Chat</wd>
+<space width="67"/>
+<wd l="1262" t="9144" r="1618" b="9283">with</wd>
+<space width="77"/>
+<wd l="1694" t="9182" r="1877" b="9288">us</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="3715" t="9139" r="4402" b="9288" backColor="e2904a" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="3720" t="9144" r="4397" b="9283" baseLine="9283" underlined="none" fontSize="800" foreColor="ffffff">
+<wd l="3720" t="9144" r="4397" b="9283">Reorder</wd>
+<space/>
+</ln>
+</textZone>
+<zone l="72" t="8928" r="2606" b="9504" backColor="ffffff">
+<leftBorder type="single" width="10" color="e9bd99"/>
+<topBorder type="single" width="10" color="e2904a"/>
+<rightBorder type="single" width="10" color="e2934f"/>
+<bottomBorder type="single" width="10" color="e2914b"/>
+</zone>
+<zone l="2794" t="8942" r="5318" b="9494" backColor="e2904a">
+</zone>
+<rulerline l="1651" t="4262" r="2688" b="4262" type="single" width="5" color="ccc7c8"/>
+</zones>
+</page>
+</document>

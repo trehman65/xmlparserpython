@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!--XML document generated using OCR technology from Nuance Communications, Inc.-->
+<document xmlns="http://www.scansoft.com/omnipage/xml/ssdoc-schema3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<summary>
+</summary>
+<page ocr-vers="omnipage-csdk-20.1" app-vers="omnipage-csdk-20.1">
+<description backColor="ffffff">
+<source file="3.jpeg" dpix="300" dpiy="300" sizex="640" sizey="1136"/>
+<theoreticalPage size="Custom" marginLeft="0" marginTop="0" marginRight="0" marginBottom="0" width="640" height="1136"/>
+<language>en</language>
+</description>
+<zones>
+<textZone l="62" t="53" r="907" b="168" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="62" t="53" r="902" b="163" baseLine="130" underlined="none" fontSize="600">
+<wd l="62" t="72" r="384" b="125">moo</wd>
+<space width="43"/>
+<wd l="427" t="53" r="725" b="163">Virgin</wd>
+<space width="67"/>
+<wd l="792" t="53" r="902" b="139">?</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="1171" t="53" r="1901" b="331" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="1301" t="53" r="1814" b="139" baseLine="139" underlined="none" fontSize="600">
+<wd l="1301" t="58" r="1608" b="139">12:26</wd>
+<space width="48"/>
+<wd l="1656" t="58" r="1814" b="139">PM</wd>
+<space/>
+</ln>
+<ln l="1171" t="216" r="1896" b="326" baseLine="302" underlined="none" fontSize="600">
+<wd l="1171" t="216" r="1896" b="326">cvalleycsd.org</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="2347" t="48" r="3005" b="149" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="2347" t="48" r="3000" b="144" baseLine="139" underlined="none" fontSize="600">
+<wd l="2347" t="48" r="2458" b="144"><run subsuperscript="subscript" backColor="ffffff">,</run>
+<run backColor="ffffff">q</run>
+<run subsuperscript="subscript" backColor="ffffff">,</run>
+</wd>
+<space width="67"/>
+<wd l="2525" t="58" r="2789" b="139">98%I</wd>
+<space width="206"/>
+<wd l="2995" t="62" r="3000" b="134">I</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="0" t="518" r="2606" b="4205" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="269" t="518" r="1075" b="778" baseLine="715" underlined="none" fontSize="1300">
+<wd l="269" t="518" r="1075" b="778">pencils</wd>
+<space/>
+</ln>
+<ln l="0" t="1162" r="1027" b="1502" baseLine="1426" underlined="none" fontSize="1600" foreColor="5f1511">
+<wd l="0" t="1162" r="1027" b="1502">History</wd>
+<space/>
+</ln>
+<ln l="0" t="1896" r="2026" b="2232" baseLine="2155" underlined="none" fontSize="1600" foreColor="019db5">
+<wd l="0" t="1901" r="821" b="2160">Global</wd>
+<space width="67"/>
+<wd l="888" t="1910" r="1886" b="2232">History</wd>
+<space width="53"/>
+<wd l="1939" t="1915" r="2026" b="2155">I</wd>
+<space/>
+</ln>
+<ln l="259" t="2587" r="2602" b="2846" baseLine="2784" underlined="none" fontSize="1300">
+<wd l="259" t="2597" r="480" b="2784">3&quot;</wd>
+<space width="77"/>
+<wd l="557" t="2587" r="1742" b="2846">three-ring</wd>
+<space width="96"/>
+<wd l="1838" t="2587" r="2602" b="2784">binder</wd>
+<space/>
+</ln>
+<ln l="269" t="3038" r="2174" b="3298" baseLine="3235" underlined="none" fontSize="1300">
+<wd l="269" t="3038" r="878" b="3235">loose</wd>
+<space width="106"/>
+<wd l="984" t="3038" r="1411" b="3235">leaf</wd>
+<space width="82"/>
+<wd l="1493" t="3091" r="2174" b="3298">paper</wd>
+<space/>
+</ln>
+<ln l="269" t="3490" r="2290" b="3749" baseLine="3686" underlined="none" fontSize="1300">
+<wd l="269" t="3547" r="821" b="3749">pens</wd>
+<space width="91"/>
+<wd l="912" t="3490" r="2290" b="3725">(blue/black)</wd>
+<space/>
+</ln>
+<ln l="269" t="3941" r="1075" b="4200" baseLine="4138" underlined="none" fontSize="1300">
+<wd l="269" t="3941" r="1075" b="4200">pencils</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="0" t="4570" r="2131" b="4906" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="0" t="4570" r="2126" b="4901" baseLine="4824" underlined="none" fontSize="1600" foreColor="019db5">
+<wd l="0" t="4570" r="821" b="4829">Global</wd>
+<space width="67"/>
+<wd l="888" t="4574" r="1886" b="4901">History</wd>
+<space width="53"/>
+<wd l="1939" t="4584" r="2126" b="4824">II</wd>
+<space/>
+</ln>
+</textZone>
+<textZone l="259" t="5251" r="2606" b="5453" fillingMethod="omnifont" recognitionModule="omnifontPlus3w" chrFilter="digituppercaselowercasepunctuationmiscellaneousplus">
+<ln l="259" t="5251" r="2602" b="5453" baseLine="5448" underlined="none" fontSize="1300">
+<wd l="259" t="5261" r="480" b="5453">3&quot;</wd>
+<space width="77"/>
+<wd l="557" t="5251" r="1742" b="5453">three-ring</wd>
+<space width="96"/>
+<wd l="1838" t="5256" r="2602" b="5453">binder</wd>
+<space/>
+</ln>
+</textZone>
+</zones>
+</page>
+</document>

@@ -13,8 +13,8 @@ import json
 import os.path
 
 outputLines=[]
-finalOutputJson="/Users/talha/Desktop/xmlomni/5.json"
-xmldoc = minidom.parse('/Users/talha/Desktop/5.xml')
+finalOutputJson=sys.argv[2]
+xmldoc = minidom.parse(sys.argv[1])
 
 lines = xmldoc.getElementsByTagName('ln')
 lenLines = len(lines)

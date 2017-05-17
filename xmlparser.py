@@ -15,11 +15,18 @@ import os.path
 import cv2
 
 outputLines=[]
-finalOutputJson=sys.argv[2]
-xmldoc = minidom.parse(sys.argv[1])
-# img = cv2.imread('/Users/talha/Documents/currentworkspace/xmlomni/xml2jsonLineLevel/1.jpeg')
-# finalOutputImage="/Users/talha/Documents/currentworkspace/xmlomni/xml2jsonLineLevel/1-seg.jpeg"
 
+tags=sys.argv[1].split('/')
+filename=tags[len(tags)-1].replace('.xml',"")
+directory=sys.argv[1].replace(tags[len(tags)-1],"")
+finalOutputJson=directory+filename+'.json'
+
+
+
+# img = cv2.imread('/Users/talha/Documents/currentworkspace/xmlomni/xml2jsonLineLevel/2.jpeg')
+# finalOutputImage="/Users/talha/Documents/currentworkspace/xmlomni/xml2jsonLineLevel/2-seg.jpeg"
+
+xmldoc = minidom.parse(sys.argv[1])
 lines = xmldoc.getElementsByTagName('ln')
 lenLines = len(lines)
 factor=300/1440
@@ -39,12 +46,11 @@ for s in lines:
 		if(thisWord!=None):
 			thisLine = thisLine + thisWord + " "
 
-	l=float(s.attributes['l'].value)*factor
-	r=float(s.attributes['r'].value)*factor
-	t=float(s.attributes['t'].value)*factor
-	b=float(s.attributes['b'].value)*factor
-	
-	#cv2.rectangle(img,l, t, r, b, (0, 0, 255), 3)
+	l=int(float(s.attributes['l'].value)*factor)
+	r=int(float(s.attributes['r'].value)*factor)
+	t=int(float(s.attributes['t'].value)*factor)
+	b=int(float(s.attributes['b'].value)*factor)
+
 	
 	#cv2.rectangle(img,(int(l), int(t)), (int(r), int(b)), (0, 0, 255), 3)
 	#cv2.rectangle(img,(154,1147), (1546,1277), (0, 0, 255), 3)
@@ -61,7 +67,7 @@ for s in lines:
 	print thisLine
 	count=count+1
 
-cv2.imwrite(finalOutputImage,img)
+# cv2.imwrite(finalOutputImage,img)
 
 
 with open(finalOutputJson, 'w') as outfile:  
